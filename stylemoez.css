@@ -1,0 +1,56 @@
+*{
+margin: 0;
+padding: 0;
+}
+.ordinateur{
+ display: flex;
+    
+    
+
+}
+.produit{
+    display: flex;
+    flex-direction: column;
+    width: 223px;
+    align-items: center;
+    border: 6px solid red;
+}
+
+.moez{
+    
+    height: 220px;
+    width: 220px;
+
+}
+
+.divB{
+    display: flex;
+    justify-content: space-around;
+    width: 64px;
+}
+
+.btnmoins{
+    width: 20px;
+}
+
+.btnplus{
+    width: 20px;
+}
+
+.divD{
+   
+    width: 94px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.coeur{
+    color: brown;
+}
+
+.container{
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+}
